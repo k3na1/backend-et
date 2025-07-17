@@ -11,7 +11,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/juegos")
-@CrossOrigin("https://vercel.com/k3na1s-projects/frontend-et/61kcyPTt7M4app2qH5Zao3upE8yq")
+@CrossOrigin("https://frontend-et-psi.vercel.app/")
 public class JuegoController {
 
     @Autowired
